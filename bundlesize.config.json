@@ -23,6 +23,10 @@
     {
       "path": "packages/autocomplete-plugin-query-suggestions/dist/umd/index.production.js",
       "maxSize": "4 kB"
+    },
+    {
+      "path": "packages/autocomplete-theme-classic/dist/theme.css",
+      "maxSize": "4 kB"
     }
   ]
 }
